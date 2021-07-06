@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Black-panthr
+- 👋 Hi, I’m @Dilshan
 - 👀 I’m interested in data science.
 
 - 🌱 I’m currently learning python and machine learning.
